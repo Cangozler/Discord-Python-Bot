@@ -1,3 +1,4 @@
 # Discord-Python-Bot
 Simple but life saver
-<img src="https://www.pexels.com/photo/action-automobiles-automotive-car-show-173287" alt="" width="300" height="300">
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
+https://www.hizliresim.com/m8s4uiq
