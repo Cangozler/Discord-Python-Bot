@@ -7,5 +7,7 @@ Simple but life saver<br>
   <li>Item</li>
   <li>Item</li>  
 </ul>
-
+<div align="center">
+    <img src="style.css" width="400" height="400" alt="css-in-readme">
+</div>
 
