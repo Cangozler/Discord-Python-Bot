@@ -5,6 +5,6 @@ Simple but life saver<br>
 <ul>
   <li>Red Diamonds is Administrator commands </li>
   <li>Blue Diamonds is Fun commands</li>
-  <li>Orange diamonds is Randomm anime immages commands</li>  
+  <li>Orange diamonds is Randomm anime images commands</li>  
 </ul>
 
