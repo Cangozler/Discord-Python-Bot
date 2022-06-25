@@ -9,3 +9,6 @@ Simple but life saver<br>
 </ul>
 
 
+ul:{
+  list-style-type: square;
+}
