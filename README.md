@@ -4,7 +4,7 @@ Simple but life saver<br>
 
 <ul>
   <li>Red Diamonds is Administrator commands </li>
-  <ul><li> ![My image](https://github.com/Cangozler/Discord-Python-Bot/blob/main/imgs/cmdms2.png)</li><br>
+  ![My image](https://github.com/Cangozler/Discord-Python-Bot/blob/main/imgs/cmdms2.png)
   </ul>
   
   <li>Blue Diamonds is Fun commands</li>
