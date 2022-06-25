@@ -7,6 +7,5 @@ Simple but life saver<br>
   <li>Item</li>
   <li>Item</li>  
 </ul>
-ul:nth-of-type(3) {
-  list-style-type: square;
-}
+
+
