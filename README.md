@@ -6,8 +6,8 @@ Simple but life saver<br>
   </ul>
   <ul>
   <li>Blue Diamonds is Fun commands</li>
+  <img src="https://github.com/Cangozler/Discord-Python-Bot/blob/main/imgs/cmdms2.png" alt="2013 Toyota Tacoma" id="itemImg">
   </ul>
-![My image](https://github.com/Cangozler/Discord-Python-Bot/blob/main/imgs/cmdms2.png)
   <ul>
   <li>Orange diamonds is Randomm anime images commands</li>  
 </ul>
